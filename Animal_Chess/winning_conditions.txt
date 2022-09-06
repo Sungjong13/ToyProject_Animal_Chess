@@ -1,0 +1,49 @@
+How to win
+
+1. Capture enemy 
+   tiger.
+2. Move your 
+   tiger to 
+   opponents 
+   lair and 
+   survive for 
+   one turn.
+
+Rules
+
+1. Your lair 
+   consists of
+   the 3 squares 
+   where your 
+   elephant,
+   tiger, and 
+   giraff was
+   at start.
+2. You can 
+   either choose
+   to move or
+   to place a
+   captured 
+   piece each
+   turn.
+3. You may place
+   captured 
+   pieces
+   anywhere
+   except the
+   opponents
+   lair.
+4. Your chick
+   will evolve
+   into a
+   chicken once
+   it reaches
+   the opponents
+   lair.
+5. You can move
+   your pieces
+   one square
+   any direction
+   each piece's
+   arrows point.
+
